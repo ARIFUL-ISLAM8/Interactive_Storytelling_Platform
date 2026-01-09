@@ -6,7 +6,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized(); // Ensure Flutter is initialized
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: ,
+      apiKey: 
       authDomain: 'interactive-storytelling-1323c.firebaseapp.com',
       databaseURL: 'https://interactive-storytelling-1323c-default-rtdb.asia-southeast1.firebasedatabase.app/',
       projectId: 'interactive-storytelling-1323c',
