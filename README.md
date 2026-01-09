@@ -3,7 +3,9 @@
 
 # 📖 Interactive Storytelling Platform
 
-The **Interactive Storytelling Platform** is a digital support community designed to foster emotional well-being, practical learning, and social connection through structured storytelling and peer interaction. It provides a **safe, moderated environment** where users can share experiences, access resources, and engage in meaningful conversations.
+The **Interactive Storytelling Platform** is a digital support community designed to foster emotional well-being, practical learning, and social connection through structured storytelling and peer interaction. It provides a **safe, moderated environment** where users can share experiences, access resources, and engage in meaningful conversations.  
+
+💡 **Built with Flutter**, the platform offers a **responsive and cross-platform web application** experience.
 
 ---
 
@@ -36,7 +38,7 @@ The platform functions as a supportive community with the following objectives:
 
 ### 🔔 Notifications
 - Real-time updates for messages, replies, and mentions.  
-- Push notifications for important alerts using **Firebase Cloud Messaging**.  
+- Push notifications using **Firebase Cloud Messaging**.  
 
 ### 👤 User Authentication
 - Secure user registration and login.  
@@ -57,7 +59,7 @@ To maintain a supportive environment:
 ## 🛠️ Technical Implementation
 
 ### Frontend
-- Built with **Flutter** for a responsive web application.  
+- Built entirely with **Flutter** for a responsive, cross-platform web application.  
 
 ### Backend
 - Powered by **Firebase** for:
@@ -83,4 +85,7 @@ Reusable modules included in the platform:
 
 ## 🙌 Thank You
 
-Thank you for exploring the **Interactive Storytelling Platform**. Together, we inspire and are inspired by the magic of storytelling. Let’s continue to **connect, share, and grow**.
+Thank you for exploring the **Interactive Storytelling Platform**.  
+Together, we inspire and are inspired by the magic of storytelling. Let’s continue to **connect, share, and grow**.
+
+
